@@ -1,0 +1,1 @@
+<iframe src='http://www.engageya.com/wp/wphomepage.asp?u=<?php echo get_option("engageya_params_user_id"); ?>&t=<?php echo get_option("engageya_params_token");?>&url=<?php echo urlencode (get_bloginfo('wpurl'));?>'  width="800" height="700" scrolling="no"></iframe>

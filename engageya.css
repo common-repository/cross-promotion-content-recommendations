@@ -1,0 +1,31 @@
+#engageyaAdmin {
+  margin-top: 40px;
+  margin-right: 20px;
+}
+#engageyaAdmin h1 {
+  font-size: 18px;
+  color: #666;
+  text-transform: uppercase;
+}
+
+#engageyaAdmin ul {
+    list-style:circle;
+    font-size: 14px;
+    margin-left: 20px;
+    font-weight: bold;
+    color: green;
+}
+
+#engageyaAdmin a.engageya_signin {
+  text-decoration: none;
+  background-image: url("img/b_get_grazeit_bg.gif");
+  display: inline-block;
+  width: 272px;
+  height: 62px;
+  font-size: 23px;
+    color: white;
+    text-align: center;
+    line-height: 61px;
+    text-transform: uppercase;
+}
+ 
